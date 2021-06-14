@@ -1,6 +1,6 @@
 <template>
   <div class="student">
-    <p class="name">Name: {{ student.name }}</p>
+    <h3 class="name">Name: {{ student.name }}</h3>
     <p class="age">Age: {{ student.age }}</p>
     <p class="course">Course: {{ student.course }}</p>
   </div>
